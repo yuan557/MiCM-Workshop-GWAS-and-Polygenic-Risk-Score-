@@ -78,6 +78,6 @@ All material for exercise can be found in the `Exercise/` directory
   - [`gdown`] Documentation: https://pypi.org/project/gdown/
 
 ## References
-Material Adapted from Dr. Zoe Schmilovich and Dr. Kevin Liang
+Material adapted from Dr. Zoe Schmilovich and Dr. Kevin Liang
  
 *Workshop created as part of the McGill Initiative in Computational Medicine*
