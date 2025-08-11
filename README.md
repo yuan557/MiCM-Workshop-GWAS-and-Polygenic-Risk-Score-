@@ -41,7 +41,7 @@ All material for exercise can be found in the `Exercise/` directory
     - This script can be run locally after installing relevant packages (see below) `MiCM_PRS_CAD.ipynb` 
 - `data`
   - CAD GWAS summary statistics (van der Harst et al., 2018) https://doi.org/10.1161/CIRCRESAHA.117.312086
-    - `raw_cad_gwas_sum_stats` 
+    - `raw_cad_gwas_sum_stats` is too large and therefore not on GitHub, please see Google Colab documentation for download instructions 
   - European genotype subset from 1000 Genomes Project
     - `EUR.bim`
     - `EUR.fam`
