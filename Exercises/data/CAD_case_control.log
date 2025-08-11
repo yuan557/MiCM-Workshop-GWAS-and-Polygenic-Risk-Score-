@@ -1,0 +1,22 @@
+PLINK v2.00a3 SSE4.2 (18 Feb 2022)
+Options in effect:
+  --bfile EUR
+  --make-bed
+  --out CAD_case_control
+  --pheno CAD_phenotypes.txt
+
+Hostname: Dingy-Dell-2
+Working directory: /mnt/c/Users/cydin/Documents/GitHub/MiCM-Workshop-GWAS-and-Polygenic-Risk-Score-/Exercises/data
+Start time: Sun Aug 10 16:46:45 2025
+
+Random number seed: 1754858805
+7613 MiB RAM detected; reserving 3806 MiB for main workspace.
+Using up to 12 threads (change this with --threads).
+628 samples (307 females, 321 males; 627 founders) loaded from EUR.fam.
+44000 variants loaded from EUR.bim.
+1 binary phenotype loaded (319 cases, 309 controls).
+Writing CAD_case_control.fam ... done.
+Writing CAD_case_control.bim ... done.
+Writing CAD_case_control.bed ... done.
+
+End time: Sun Aug 10 16:46:45 2025
