@@ -9,7 +9,8 @@ This repository contains an exercise from the MiCM Intro to PRS workshop
 
 ## Requirements
 We will be using Google Colab to run our analyses.
-- https://colab.research.google.com/drive/1wTGopy_T8LjsdJaevI6swChlBzc3ehm5?usp=sharing 
+- https://colab.research.google.com/drive/1wTGopy_T8LjsdJaevI6swChlBzc3ehm5?usp=sharing.<br>
+
 Alternatively, if you would like to run the analyses locally, you will need to have access to the Unix terminal, so be sure you have access to one. 
 * Mac OS and any linux distribution will have a terminal already
     * Mac OS: search for terminal in your spotlight search
@@ -71,6 +72,7 @@ All material for exercise can be found in the `Exercise/` directory
 1. Install dependencies:
    ```bash
    pip install gdown pandas numpy matplotlib seaborn
+2. Download ```Exercises/scripts/MiCM_PRS_CAD.ipynb```
 2. Install locally command line tools:
   - [`plink2`] Documentation: https://www.cog-genomics.org/plink/2.0/
   - [`gdown`] Documentation: https://pypi.org/project/gdown/
