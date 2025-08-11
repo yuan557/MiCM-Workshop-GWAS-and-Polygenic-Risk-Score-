@@ -9,6 +9,7 @@ This repository contains an exercise from the MiCM Intro to PRS workshop
 
 ## Requirements
 We will be using Google Colab to run our analyses.
+- https://colab.research.google.com/drive/1wTGopy_T8LjsdJaevI6swChlBzc3ehm5?usp=sharing 
 Alternatively, if you would like to run the analyses locally, you will need to have access to the Unix terminal, so be sure you have access to one. 
 * Mac OS and any linux distribution will have a terminal already
     * Mac OS: search for terminal in your spotlight search
@@ -59,30 +60,20 @@ All material for exercise can be found in the `Exercise/` directory
     - `CAD_EUR_pst_eff_a1_b0.5_phiauto_allchr.PLINKscore` 
   - Calculated PRS for individuals
     - `prs_for_cad.sscore`
-
-## Requirements
-
-Run in Google Colab or a local Python 3 environment with:
-
-- **Python packages**:
-  - `pandas`
-  - `numpy`
-  - `matplotlib`
-  - `seaborn`
-- **Command-line tools**:
-  - [`plink2`] Documentation: https://www.cog-genomics.org/plink/2.0/
-  - [`gdown`] Documentation: https://pypi.org/project/gdown/
  
 ## How to Run
 
 **Option 1 — Google Colab**  
-1. Open `MiCM_PRS_CAD.ipynb` in Google Colab.
+1. open Google colab: https://colab.research.google.com/drive/1wTGopy_T8LjsdJaevI6swChlBzc3ehm5?usp=sharing
 2. Run all cells in order.
 
 **Option 2 — Local Execution**  
 1. Install dependencies:
    ```bash
-   pip install gdown pandas numpy matplotlib seaborn 
+   pip install gdown pandas numpy matplotlib seaborn
+2. Install locally command line tools:
+  - [`plink2`] Documentation: https://www.cog-genomics.org/plink/2.0/
+  - [`gdown`] Documentation: https://pypi.org/project/gdown/
 
 ## References
 *<Material Adapted from Dr. Zoe Schmilovich and Dr. Kevin Liang>*
